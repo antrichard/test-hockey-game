@@ -1,0 +1,44 @@
+[
+  {
+    "number": 31,
+    "name": "Carey",
+    "lastname": "Price",
+    "position": "goaltender",
+    "isCaptain": false
+  },
+  {
+    "number": 14,
+    "name": "Nick",
+    "lastname": "Suzuki",
+    "position": "forward",
+    "isCaptain": false
+  },
+  {
+    "number": 15,
+    "name": "Jesperi",
+    "lastname": "Kotkaniemi",
+    "position": "forward",
+    "isCaptain": false
+  },
+  {
+    "number": 71,
+    "name": "Jake",
+    "lastname": "Evans",
+    "position": "forward",
+    "isCaptain": false
+  },
+  {
+    "number": 27,
+    "name": "Alexander",
+    "lastname": "Romanov",
+    "position": "defenseman",
+    "isCaptain": false
+  },
+  {
+    "number": 6,
+    "name": "Shea",
+    "lastname": "Weber",
+    "position": "defenseman",
+    "isCaptain": true
+  }
+]
